@@ -1,0 +1,28 @@
+{
+  "product": [
+    {
+      "name": "payal",
+      "karat": "22",
+      "weight": "22",
+      "price": "2222",
+      "image": "https://png.pngtree.com/png-vector/20210618/ourmid/pngtree-gold-chain-collar-metal-accessories-png-image_3443360.jpg",
+      "id": 44
+    },
+    {
+      "name": "chai2",
+      "karat": "12",
+      "weight": "11",
+      "price": "13313",
+      "image": "https://png.pngtree.com/png-vector/20210618/ourmid/pngtree-gold-chain-collar-metal-accessories-png-image_3443360.jpg",
+      "id": 45
+    },
+    {
+      "name": "dsdsdsa1",
+      "karat": "ddasd2",
+      "weight": "dsdads3",
+      "price": "ddadas4",
+      "image": "C:\\fakepath\\ring.jpg",
+      "id": 46
+    }
+  ]
+}
